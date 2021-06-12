@@ -1,0 +1,2 @@
+protoc --go-grpc_out=./chat chat.proto
+go mod init github.com/rwakos/go-grpc-tutorial
